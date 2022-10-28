@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>百度一面总结</title>
+      <link href="/2022/10/28/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%99%BE%E5%BA%A6%E4%B8%80%E9%9D%A2%E6%80%BB%E7%BB%93/"/>
+      <url>/2022/10/28/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E7%99%BE%E5%BA%A6%E4%B8%80%E9%9D%A2%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<h1 id="百度一面总结"><a href="#百度一面总结" class="headerlink" title="百度一面总结"></a>百度一面总结</h1><h2 id="一、介绍项目"><a href="#一、介绍项目" class="headerlink" title="一、介绍项目"></a>一、介绍项目</h2><h2 id="二、泛型的优点（在项目的通用返回类里面用到了泛型）"><a href="#二、泛型的优点（在项目的通用返回类里面用到了泛型）" class="headerlink" title="二、泛型的优点（在项目的通用返回类里面用到了泛型）"></a>二、泛型的优点（在项目的通用返回类里面用到了泛型）</h2><h2 id="三、优化的时候为什么要用的是Redis不是索引（项目）"><a href="#三、优化的时候为什么要用的是Redis不是索引（项目）" class="headerlink" title="三、优化的时候为什么要用的是Redis不是索引（项目）"></a>三、优化的时候为什么要用的是Redis不是索引（项目）</h2><h2 id="四、如果管理员在添加员工的时候点了两次，类似于并发，如何处理这种情况（项目）"><a href="#四、如果管理员在添加员工的时候点了两次，类似于并发，如何处理这种情况（项目）" class="headerlink" title="四、如果管理员在添加员工的时候点了两次，类似于并发，如何处理这种情况（项目）"></a>四、如果管理员在添加员工的时候点了两次，类似于并发，如何处理这种情况（项目）</h2><h2 id="五、说一下HashMap"><a href="#五、说一下HashMap" class="headerlink" title="五、说一下HashMap"></a>五、说一下HashMap</h2><h2 id="六、HashMap已经可以树化了为什么还要链表"><a href="#六、HashMap已经可以树化了为什么还要链表" class="headerlink" title="六、HashMap已经可以树化了为什么还要链表"></a>六、HashMap已经可以树化了为什么还要链表</h2><h2 id="七、Redis缓存是怎么做的"><a href="#七、Redis缓存是怎么做的" class="headerlink" title="七、Redis缓存是怎么做的"></a>七、Redis缓存是怎么做的</h2><h2 id="八、为什么要用Redis缓存（项目）"><a href="#八、为什么要用Redis缓存（项目）" class="headerlink" title="八、为什么要用Redis缓存（项目）"></a>八、为什么要用Redis缓存（项目）</h2><h2 id="九、有别的员工密码转换吗-反着来？（项目）"><a href="#九、有别的员工密码转换吗-反着来？（项目）" class="headerlink" title="九、有别的员工密码转换吗 反着来？（项目）"></a>九、有别的员工密码转换吗 反着来？（项目）</h2><h2 id="十、异常处理是怎么做的（aop）"><a href="#十、异常处理是怎么做的（aop）" class="headerlink" title="十、异常处理是怎么做的（aop）"></a>十、异常处理是怎么做的（aop）</h2><h2 id="十一、如何把json数据转换成Java对象，或者把Java对象转换成json数据"><a href="#十一、如何把json数据转换成Java对象，或者把Java对象转换成json数据" class="headerlink" title="十一、如何把json数据转换成Java对象，或者把Java对象转换成json数据"></a>十一、如何把json数据转换成Java对象，或者把Java对象转换成json数据</h2><h2 id="十二、项目的亮点"><a href="#十二、项目的亮点" class="headerlink" title="十二、项目的亮点"></a>十二、项目的亮点</h2><h2 id="十三、Redis常用数据结构-持久化策略"><a href="#十三、Redis常用数据结构-持久化策略" class="headerlink" title="十三、Redis常用数据结构 持久化策略"></a>十三、Redis常用数据结构 持久化策略</h2><h2 id="十四、aop除了异常处理还能用在别的地方吗"><a href="#十四、aop除了异常处理还能用在别的地方吗" class="headerlink" title="十四、aop除了异常处理还能用在别的地方吗"></a>十四、aop除了异常处理还能用在别的地方吗</h2><h2 id="十五、算法编程题"><a href="#十五、算法编程题" class="headerlink" title="十五、算法编程题"></a>十五、算法编程题</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hq公司一面总结</title>
       <link href="/2022/10/21/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/hq%E5%85%AC%E5%8F%B8%E4%B8%80%E9%9D%A2%E6%80%BB%E7%BB%93/"/>
       <url>/2022/10/21/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/hq%E5%85%AC%E5%8F%B8%E4%B8%80%E9%9D%A2%E6%80%BB%E7%BB%93/</url>
